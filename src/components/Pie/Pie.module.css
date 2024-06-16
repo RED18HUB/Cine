@@ -1,0 +1,18 @@
+.pie{
+   display: flex;
+   justify-content: center;
+   background-color: var(--negro);
+   align-items: center;
+}
+
+.pie h3{
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--blanco);
+    
+
+}
+h3 img {
+    margin-left: 5px;
+    width: 50px;
+}
